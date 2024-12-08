@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/c1574dbe-daab-431d-ae69-9d2e67428458" alt="BUFFER OVERFLOW HAHA GET IT?")
+<img src="https://github.com/user-attachments/assets/c1574dbe-daab-431d-ae69-9d2e67428458" alt="BUFFER OVERFLOW HAHA GET IT?")>
 <h1>FEEL LIKE A WINNER</h1>
 <h3>(Scientifically proven!!)</h3>
 <img src="https://github.com/user-attachments/assets/0aa1a453-5af1-49ee-bc54-dfc5a5711435" alt="Fact Check: Science.">

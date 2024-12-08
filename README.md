@@ -5,7 +5,7 @@
   <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4225056/#Sec14"> Source for above image. </a><br><br>
   Gamification is probably underused and misdirected. <br>What if instead of enhancing the thrill of losing money or making it really satisfying to click on other people in video games—we made things that improve people's lives hopelessly addictive? <br>I hope you can see my beautiful vision.
 </p>
-<a href=https://youtube.com/watch?v=p02U2kd5p6w><p> My Inspiration</a></p>
+<a href="https://youtube.com/watch?v=p02U2kd5p6w"><p> My Inspiration</p></a>
 <h2>What is it?</h2>
 <p>Slot-machine SFX for VSCode.<br>Uses a couple RegExs to make fun noises happen when you do certain things in the editor, and thus should possibly still be compatible with other soundpacks—in case you also want to hear Chinese ladies calling you handsome.</p>
 <h2>How can I try it?</h2>

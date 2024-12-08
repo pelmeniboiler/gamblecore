@@ -1,0 +1,61 @@
+{
+    "name": "gamblecore",
+    "display-name": "Gamble-Core Sound Effects",
+    "description": "Slot machines are designed to keep you gambling using visual and auditory stimuli. What if we used this for the sake of good?",
+    "author": "PelmeniBoiler",
+    "avatar": "ai.jpg",
+    "avatar-dark": "ai.jpg",
+    "version": "777",
+
+    "contributes": [
+        {
+            "keywords": "test",
+            "regexps": [
+                ".*;.*",            
+                ".*\\}.*",
+                "=>\\s*{",         
+                ".*\\).*"         
+                ],
+            "voices": [
+                "chime.mp3"
+            ]
+        },
+        {
+        "keywords": [],
+            "regexps": [
+                "(?<=\\n)(?!\\s*\\()"        
+                ],
+            "voices": [
+                "OrchHit1.mp3",
+                "OrchHit2.mp3"
+            ]
+        },
+        {
+            "keywords": [],
+            "regexps": [
+                " "      
+                ],
+            "voices": [
+                "xylophone.mp3"
+            ]
+        },
+        {
+            "keywords": [],
+            "regexps": [
+                "[:,\\]>./]"       
+            ],
+            "voices": [
+                "gleam.mp3"
+            ]
+        },
+        {
+            "keywords": [],
+            "regexps": [
+                "(?:^|\\s)([a-zA-Z])"  
+            ],
+            "voices": [
+                "OrganChord.mp3"
+            ]
+        }
+    ]
+}
